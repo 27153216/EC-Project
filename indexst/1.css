@@ -1,0 +1,23 @@
+﻿#leftb{
+    opacity: .5;
+}
+#leftb:hover {
+    opacity: 1;
+}
+#rightb{
+    opacity:.5;
+}
+#rightb:hover{
+    opacity:1;
+}
+.bar {
+    background-color: black;
+    opacity: 0.7;
+}
+    .bar:hover {
+        background-color: white;
+        opacity: 1;
+    }
+    .bar:active{
+        background-color:lightgray;
+    }
